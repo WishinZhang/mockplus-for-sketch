@@ -7,5 +7,8 @@
     <item>
       <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_beta_v5.0.1.zip" sparkle:version="5.0.1"/>
     </item>
+    <item>
+      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_beta_v5.0.2.zip" sparkle:version="5.0.2"/>
+    </item>
   </channel>
 </rss>
