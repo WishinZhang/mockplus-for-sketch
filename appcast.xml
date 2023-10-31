@@ -2,13 +2,10 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <item>
-      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_beta_v5.0.0.zip" sparkle:version="5.0.0"/>
+      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_en_v5.0.6.zip" sparkle:version="5.0.6"/>
     </item>
     <item>
-      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_beta_v5.0.1.zip" sparkle:version="5.0.1"/>
-    </item>
-    <item>
-      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_beta_v5.0.2.zip" sparkle:version="5.0.2"/>
+      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_en_v5.0.7.zip" sparkle:version="5.0.7"/>
     </item>
   </channel>
 </rss>
