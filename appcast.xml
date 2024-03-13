@@ -10,5 +10,8 @@
     <item>
       <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_en_v5.0.13.zip" sparkle:version="5.0.13"/>
     </item>
+    <item>
+      <enclosure url="https://raw.githubusercontent.com/WishinZhang/mockplus-for-sketch/main/mockplus_for_sketch_en_v5.0.14.zip" sparkle:version="5.0.14"/>
+    </item>
   </channel>
 </rss>
